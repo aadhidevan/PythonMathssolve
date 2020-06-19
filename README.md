@@ -1,5 +1,5 @@
-# PythonMathssolveOdd or Even
-Basic to advanced python projects to solve maths problems
-
-Everyone know a number with last digit as even is always even.This small lines of
-code makes intresting for newbie to learn python maths works easily!
+# Python Maths solve
+Basic to advanced python projects to solve maths problems.
+It contains two python projects to find odd or even ,Power of a number.
+1.Odd or Even simple project.
+2.Power of any number.
